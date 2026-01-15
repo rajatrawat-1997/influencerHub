@@ -1,0 +1,15 @@
+# Ignore compiled output files
+/build/
+/dist/
+
+# Ignore log files
+*.log
+npm-debug.log*
+
+# Ignore environment specific files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+
